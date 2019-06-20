@@ -16,3 +16,5 @@ D - Permite que o usuário altere a escala da amplitude e do tempo.
 E - Escolhe qual operação quer realizar com os canais.
 
 F - Apresenta os sinais.
+
+![github-small](https://user-images.githubusercontent.com/48967416/59811220-408f3480-92df-11e9-8c29-2c85abbb367a.jpeg)
