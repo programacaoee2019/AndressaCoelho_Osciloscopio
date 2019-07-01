@@ -5,7 +5,7 @@ Motivação: Como o osciloscópio foi um dos instrumentos mais  utilizados por n
 
 Funcionalidade: o osciloscópio vai receber até duas entradas de dados, exiba esses sinais recebidos em um gráfico tensão por tempo em um display com ajuste de escala. Além disso, será possível somar ou subtrair os sinais recebidos e ver qual o Vpp, a frequência e o RMS de cada canal.
 
-![github-small](https://github.com/programacaoee2019/AndressaCoelho_Osciloscopio/blob/master/Front%20Panel.png)
+![github-small](https://user-images.githubusercontent.com/48967416/60466784-06049080-9c2b-11e9-957e-c0bf315e268f.png)
 
 A - Os canais acesos estarão ligados.
 
