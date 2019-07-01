@@ -36,10 +36,11 @@ L - Gráfico que mostra os canais 1 e 2 e a função Math quando ligados;
 
 M - Gráfico que mostra os canais 1 e 2 plotados nos eixos XY.
 
+Alguns screenshots do código. OBS.: Os canais 1 e 2 tem códigos análogos.
+
 ![github-small](https://user-images.githubusercontent.com/48967416/60468162-26cee500-9c2f-11e9-9671-145a3c3be4e7.png)
-Posição True e Operação subtração.
 
+![github-small](https://user-images.githubusercontent.com/48967416/60468796-29323e80-9c31-11e9-98fb-2dccf9d88191.png)
 
-![github-small](https://user-images.githubusercontent.com/48967416/59811220-408f3480-92df-11e9-8c29-2c85abbb367a.jpeg)
+![github-small](https://user-images.githubusercontent.com/48967416/60468940-8cbc6c00-9c31-11e9-9189-a7550dec9a46.png)
 
-![github-small](https://user-images.githubusercontent.com/48967416/59811252-703e3c80-92df-11e9-8b5d-b0aa3dd451fd.jpeg)
