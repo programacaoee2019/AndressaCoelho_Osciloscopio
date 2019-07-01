@@ -1,10 +1,13 @@
 # AndressaCoelho_Osciloscopio
-Osciloscópio
-Conceito: fazer um osciloscópio.
+# Osciloscópio
+
+Conceito: osciloscópio com gerador de sinais integrado.
 
 Motivação: Como o osciloscópio foi um dos instrumentos mais  utilizados por nós nos laboratórios de eletrônica e de circuitos elétricos, criá-lo em LabView seria mais conveniente para o engenheiro eletricista, pois seria a adaptação de suas funcionalidades em um só hardware.
 
-Funcionalidade: o osciloscópio vai receber até duas entradas de dados, exiba esses sinais recebidos em um gráfico tensão por tempo em um display com ajuste de escala. Além disso, será possível somar ou subtrair os sinais recebidos e ver qual o Vpp, a frequência e o RMS de cada canal.
+Funcionalidade: o osciloscópio vai receber até duas entradas de dados, exibir esses sinais recebidos em um gráfico tensão por tempo em um display. Será possível somar ou subtrair os sinais recebidos e ver qual o Vpp e o RMS de cada canal e do canal representado pela função Math e também escolher os parâmetros dos sinais a serem enviados para cada canal. Além disso, haverá um outro display gráfico para plotar os canais 1 e 2 nos eixos XY. 
+
+# Interface gráfica
 
 ![github-small](https://user-images.githubusercontent.com/48967416/60466784-06049080-9c2b-11e9-957e-c0bf315e268f.png)
 
@@ -39,6 +42,8 @@ L - Gráfico que mostra os canais 1 e 2 e a função Math quando ligados;
 
 M - Gráfico que mostra os canais 1 e 2 plotados nos eixos XY.
 
+# Código
+
 Alguns screenshots do código. OBS.: Os canais 1 e 2 tem códigos análogos.
 
 ![github-small](https://user-images.githubusercontent.com/48967416/60468162-26cee500-9c2f-11e9-9671-145a3c3be4e7.png)
@@ -46,4 +51,8 @@ Alguns screenshots do código. OBS.: Os canais 1 e 2 tem códigos análogos.
 ![github-small](https://user-images.githubusercontent.com/48967416/60468796-29323e80-9c31-11e9-98fb-2dccf9d88191.png)
 
 ![github-small](https://user-images.githubusercontent.com/48967416/60468940-8cbc6c00-9c31-11e9-9189-a7550dec9a46.png)
+
+# Fluxograma 
+
+![github-small](https://user-images.githubusercontent.com/48967416/60472925-3d7e3780-9c41-11e9-8401-245362c96473.png)
 
