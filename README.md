@@ -1,4 +1,5 @@
 # AndressaCoelho_Osciloscopio
+Osciloscópio
 Conceito: fazer um osciloscópio.
 
 Motivação: Como o osciloscópio foi um dos instrumentos mais  utilizados por nós nos laboratórios de eletrônica e de circuitos elétricos, criá-lo em LabView seria mais conveniente para o engenheiro eletricista, pois seria a adaptação de suas funcionalidades em um só hardware.
@@ -6,6 +7,8 @@ Motivação: Como o osciloscópio foi um dos instrumentos mais  utilizados por n
 Funcionalidade: o osciloscópio vai receber até duas entradas de dados, exiba esses sinais recebidos em um gráfico tensão por tempo em um display com ajuste de escala. Além disso, será possível somar ou subtrair os sinais recebidos e ver qual o Vpp, a frequência e o RMS de cada canal.
 
 ![github-small](https://user-images.githubusercontent.com/48967416/60466784-06049080-9c2b-11e9-957e-c0bf315e268f.png)
+
+Legenda da interface:
 
 ![github-small](https://user-images.githubusercontent.com/48967416/60467287-a0190880-9c2c-11e9-9abf-aa8f70ea013e.png)
 
