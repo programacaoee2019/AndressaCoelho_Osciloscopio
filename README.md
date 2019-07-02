@@ -58,7 +58,8 @@ Alguns screenshots do código. OBS.: Os canais 1 e 2 tem códigos análogos.
 
 # Diagrama de classes
 
-![github-small](https://user-images.githubusercontent.com/48967416/60518754-86bd9e00-9cb8-11e9-826a-d3a43c95fb7c.png)
+![github-small](https://user-images.githubusercontent.com/48967416/60518904-d43a0b00-9cb8-11e9-8e7e-d94ae2f09bd9.png)
+
 
 
 
