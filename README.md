@@ -3,9 +3,9 @@
 
 Conceito: osciloscópio com gerador de sinais integrado.
 
-Motivação: Como o osciloscópio foi um dos instrumentos mais  utilizados por nós nos laboratórios de eletrônica e de circuitos elétricos, criá-lo em LabView seria mais conveniente para o engenheiro eletricista, pois seria a adaptação de suas funcionalidades em um só hardware.
+Motivação: Como o osciloscópio foi um dos instrumentos mais  utilizados por nós nos laboratórios de eletrônica e de circuitos elétricos, criá-lo em LabView seria mais conveniente para o engenheiro eletricista, pois seria a adaptação de suas funcionalidades em um só hardware, utilizando a interface gráfica que o LabView proporciona.
 
-Funcionalidade: o osciloscópio vai receber até duas entradas de dados, exibir esses sinais recebidos em um gráfico tensão por tempo em um display. Será possível somar ou subtrair os sinais recebidos e ver qual o Vpp e o RMS de cada canal e do canal representado pela função Math e também escolher os parâmetros dos sinais a serem enviados para cada canal. Além disso, haverá um outro display gráfico para plotar os canais 1 e 2 nos eixos XY. 
+Funcionalidade: o osciloscópio vai receber até dois conjuntos de entradas de dados (parâmetros como frequência, amplitude, fase e offset dos sinais gerados para os canais 1 e 2), exibir esses sinais recebidos em um gráfico tensão por tempo em um display. Será possível somar ou subtrair os sinais recebidos e ver qual o Vpp e o RMS de cada canal e do canal representado pela função Math. Além disso, haverá um outro display gráfico para plotar os canais 1 e 2 nos eixos XY, respectivamente, obtendo as famosas curvas de Lissajous. 
 
 # Interface gráfica
 
@@ -55,4 +55,10 @@ Alguns screenshots do código. OBS.: Os canais 1 e 2 tem códigos análogos.
 # Fluxograma 
 
 ![github-small](https://user-images.githubusercontent.com/48967416/60472925-3d7e3780-9c41-11e9-8401-245362c96473.png)
+
+# Diagrama de classes
+
+![github-small](https://user-images.githubusercontent.com/48967416/60518754-86bd9e00-9cb8-11e9-826a-d3a43c95fb7c.png)
+
+
 
